@@ -1,0 +1,588 @@
+{
+  "title": "Revision History",
+  "language": "en",
+  "outline": [
+    {
+      "text": "Version 1.0",
+      "level": "H3",
+      "page": 1,
+      "children": [
+        {
+          "text": "Copyright Notice",
+          "level": "H4",
+          "page": 1
+        },
+        {
+          "text": "International",
+          "level": "H4",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "text": "Overview",
+      "level": "H3",
+      "page": 2,
+      "children": [
+        {
+          "text": "Software Testing",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Foundation Level Extension –",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Agile Tester",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Qualifications",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Board",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "Version 2014",
+          "level": "H4",
+          "page": 2
+        },
+        {
+          "text": "May 31, 2014",
+          "level": "H4",
+          "page": 2,
+          "children": [
+            {
+              "text": "© International Software Testing Qualifications Board",
+              "level": "H5",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "text": "Qualifications Board",
+          "level": "H4",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "text": "Revision History",
+      "level": "H1",
+      "page": 3,
+      "children": [
+        {
+          "text": "Version",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Date",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Remarks",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "18 JUNE 2013",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Initial version",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "23 JULY 2013",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "WG reviewed and confirmed",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "11 DEC 2013",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Amended Business Outcomes and Chapters matching",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "20 DEC 2013",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Working group updates on 0.7",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "31 MAY 2014",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "GA release for Agile Extension",
+          "level": "H4",
+          "page": 3
+        },
+        {
+          "text": "Revision History",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Introduction to the Foundation Level Extensions",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Introduction to Foundation Level Agile Tester Extension",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Intended Audience",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Career Paths for Testers",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Learning Objectives",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Entry Requirements",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Structure and Course Duration",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Keeping It Current",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Overview of the Foundation Level Extension –",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Agile Tester Syllabus",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Business Outcomes",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Content",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "References",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Trademarks",
+          "level": "H4",
+          "page": 4
+        },
+        {
+          "text": "Documents and Web Sites",
+          "level": "H4",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "text": "Acknowledgements",
+      "level": "H1",
+      "page": 5,
+      "children": [
+        {
+          "text": "Foundation Level Working Group.",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Morgan,",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Ninna Morin,",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Ingvar Nordstrom,",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Chris",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "O’Dea,",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Klaus",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Olsen, Ismo",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Paukamainen,",
+          "level": "H4",
+          "page": 5
+        },
+        {
+          "text": "Nathalie Phung,",
+          "level": "H4",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "text": "Introduction to the Foundation Level Extensions",
+      "level": "H1",
+      "page": 6,
+      "children": [
+        {
+          "text": "extension syllabi.",
+          "level": "H4",
+          "page": 6,
+          "description": "updated document will be available on the ISTQB website. that is beyond the scope of this document."
+        }
+      ]
+    },
+    {
+      "text": "Introduction to Foundation Level Agile Tester Extension",
+      "level": "H1",
+      "page": 7,
+      "children": [
+        {
+          "text": "The certification for Foundation Level Extension –",
+          "level": "H4",
+          "page": 7
+        },
+        {
+          "text": "2.1 Intended Audience",
+          "level": "H2",
+          "page": 7,
+          "children": [
+            {
+              "text": "environment.",
+              "level": "H4",
+              "page": 7,
+              "description": "projects. consultants, test managers, user acceptance testers, and software developers."
+            },
+            {
+              "text": "This Foundation Level Extension –",
+              "level": "H4",
+              "page": 7,
+              "description": "consultants."
+            }
+          ]
+        },
+        {
+          "text": "2.2 Career Paths for Testers",
+          "level": "H2",
+          "page": 7,
+          "children": [
+            {
+              "text": "an Agile project.",
+              "level": "H4",
+              "page": 7
+            },
+            {
+              "text": "People possessing an ISTQB Foundation Level Extension –",
+              "level": "H4",
+              "page": 7
+            },
+            {
+              "text": "Agile Tester certificate may use the Certified",
+              "level": "H4",
+              "page": 7
+            },
+            {
+              "text": "Tester Foundation Level acronym CTFL-AT.",
+              "level": "H4",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "text": "2.3 Learning Objectives",
+          "level": "H2",
+          "page": 7,
+          "children": [
+            {
+              "text": "extension exam.",
+              "level": "H4",
+              "page": 7,
+              "description": "chapter within each particular extension syllabus."
+            }
+          ]
+        },
+        {
+          "text": "2.4 Entry Requirements",
+          "level": "H2",
+          "page": 8,
+          "children": []
+        },
+        {
+          "text": "2.5 Structure and Course Duration",
+          "level": "H2",
+          "page": 8,
+          "children": [
+            {
+              "text": "Foundation Level syllabus.",
+              "level": "H4",
+              "page": 8
+            },
+            {
+              "text": "Syllabus",
+              "level": "H4",
+              "page": 8
+            },
+            {
+              "text": "Days",
+              "level": "H4",
+              "page": 8
+            },
+            {
+              "text": "Baseline: Foundation",
+              "level": "H4",
+              "page": 8
+            },
+            {
+              "text": "Extension: Agile Tester",
+              "level": "H4",
+              "page": 8
+            },
+            {
+              "text": "Foundation Level.",
+              "level": "H4",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "text": "2.6 Keeping It Current",
+          "level": "H2",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "text": "Overview of the Foundation Level Extension –",
+      "level": "H1",
+      "page": 10
+    },
+    {
+      "text": "Agile Tester",
+      "level": "H1",
+      "page": 10
+    },
+    {
+      "text": "Syllabus",
+      "level": "H1",
+      "page": 10,
+      "children": [
+        {
+          "text": "3.1 Business Outcomes",
+          "level": "H2",
+          "page": 10,
+          "children": [
+            {
+              "text": "Extension –",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "Agile Tester certification.",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "An Agile Tester can…",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "AFM2",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "AFM3",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "Support the Agile team in planning test-related activities.",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "AFM4",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "AFM5",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "Assist the Agile team in test automation activities.",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "AFM6",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "In general, a Certified Tester Foundation Level –",
+              "level": "H4",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "text": "3.2 Content",
+          "level": "H2",
+          "page": 10,
+          "children": [
+            {
+              "text": "Chapter 1: Agile Software Development",
+              "level": "H4",
+              "page": 10
+            },
+            {
+              "text": "Manifesto.",
+              "level": "H4",
+              "page": 10,
+              "description": "early and frequent feedback."
+            },
+            {
+              "text": "The tester should recall Agile software development approaches.",
+              "level": "H4",
+              "page": 10,
+              "description": "business representatives. improvement in Agile projects. adds value in each of these activities."
+            },
+            {
+              "text": "Agile projects.",
+              "level": "H4",
+              "page": 11,
+              "description": "levels and testing types. criteria. cases. black box test design techniques based on given user stories. and to activities in Agile projects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "References",
+      "level": "H1",
+      "page": 12,
+      "children": [
+        {
+          "text": "4.1 Trademarks",
+          "level": "H2",
+          "page": 12,
+          "children": [
+            {
+              "text": "ISTQB",
+              "level": "H4",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "text": "4.2 Documents and Web Sites",
+          "level": "H2",
+          "page": 12,
+          "children": [
+            {
+              "text": "Identifier",
+              "level": "H4",
+              "page": 12
+            },
+            {
+              "text": "Reference",
+              "level": "H4",
+              "page": 12
+            },
+            {
+              "text": "[ISTQB-Web]",
+              "level": "H4",
+              "page": 12
+            },
+            {
+              "text": "Web site of the International Software Testing Qualifications Board. Refer",
+              "level": "H4",
+              "page": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
